@@ -1,0 +1,10 @@
+D:\Trung\Study\Code\C#\Code3layer\DAL\bin\Debug\DAL.dll
+D:\Trung\Study\Code\C#\Code3layer\DAL\bin\Debug\DAL.pdb
+D:\Trung\Study\Code\C#\Code3layer\DAL\bin\Debug\DTO.dll
+D:\Trung\Study\Code\C#\Code3layer\DAL\bin\Debug\DTO.pdb
+D:\Trung\Study\Code\C#\Code3layer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Trung\Study\Code\C#\Code3layer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Trung\Study\Code\C#\Code3layer\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Trung\Study\Code\C#\Code3layer\DAL\obj\Debug\DAL.dll
+D:\Trung\Study\Code\C#\Code3layer\DAL\obj\Debug\DAL.pdb
+D:\Trung\Study\Code\C#\Code3layer\DAL\bin\Debug\DocumentFormat.OpenXml.xml
